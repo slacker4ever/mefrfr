@@ -3,6 +3,7 @@ h1 {
 }
 body {
   background: grey;
+  font-size: 3vh;
 }
 .links button {
   background: black;
@@ -20,4 +21,7 @@ body {
 .la {
   display: flex;
   justify-content: space-between;
+}
+.port img {
+  height: 20vh;
 }
